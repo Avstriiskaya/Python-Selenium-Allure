@@ -1,5 +1,5 @@
 """
-Georgia_O.G. 2023
+Georgia 2023
 """
 import pytest
 import selenium
